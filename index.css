@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    font-size: 130%;
+    background-image: url(https://png.pngtree.com/png-clipart/20191120/original/pngtree-pink-watercolor-brushes-png-image_5054156.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.Button1 {
+    display: inline-block;
+    font-size: medium;
+    list-style-type: none;
+    padding : 30px;
+    color: red;
+    background-color: yellow;
+
+}
+
+li{
+    color: red;
+    float: right;
+    font-size: larger;
+    list-style-type: none;
+    padding: 30px;
+}
+
+.p {
+    font-size: 80px;
+    align-items: center;
+}
+.Button2 {
+    font-size: 30px;
+    list-style-type: none;
+    padding : 30px;
+    color: red;
+    background-color: green;
+
+}
